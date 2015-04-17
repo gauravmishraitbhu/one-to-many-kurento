@@ -2,7 +2,8 @@
 
 # one-to-many-app
 
-One to many video broadcasting app. copy paste from kurento node tutorial. 
+One to many video broadcasting app using webRTC . 
+copy pasted from kurento node tutorials. 
 Using express 4.*.
 
 ## Usage
